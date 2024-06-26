@@ -1,5 +1,5 @@
 # simple-node-server
->This is base templeate to create Node JS api project
+>This is a base template to create the Node JS API project
 
 ## Start the Server
 
